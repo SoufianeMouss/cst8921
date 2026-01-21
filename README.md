@@ -20,3 +20,6 @@
 
 # 7. Job Successful
 ![Pipeline Created Successfully](img/7.png)
+
+# 8. Result Dataset
+![Pipeline Created Successfully](img/8.png)
